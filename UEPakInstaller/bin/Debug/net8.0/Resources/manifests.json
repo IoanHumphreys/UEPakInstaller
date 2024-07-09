@@ -1,0 +1,1337 @@
+[
+    {
+        "Version": "++Fortnite+Release-2.3.0-CL-3847564-Shipping-Windows",
+        "Manifest_ID": "ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f",
+        "SeasonNumber": "Season 2"
+    },
+    {
+        "Version": "++Fortnite+Release-2.5-CL-3889387-Shipping-Windows",
+        "Manifest_ID": "d3s1TwNa7211302816b14cb28244998484a8be93",
+        "SeasonNumber": "Season 2"
+    },
+    {
+        "Version": "++Fortnite+Release-3.0.0-CL-3901517-Shipping-Windows",
+        "Manifest_ID": "k5ys7glx5bd3c57ec7b14db2bb69d44e16487a36",
+        "SeasonNumber": "Season 3"
+    },
+    {
+        "Version": "++Fortnite+Release-3.1-CL-3917250-Shipping-Windows",
+        "Manifest_ID": "qSfz1yvL2a694c0e864a4e2aadd0229121cde46c",
+        "SeasonNumber": "Season 3"
+    },
+    {
+        "Version": "++Fortnite+Release-4.0-CL-4039451-Shipping-Windows",
+        "Manifest_ID": "REvHap8Be76174fe73914ba99a652ef722c0bd8c",
+        "SeasonNumber": "Season 4"
+    },
+    {
+        "Version": "++Fortnite+Release-4.1-CL-4053532-Shipping-Windows",
+        "Manifest_ID": "LjhtJU7of2d3a380321f4257a791df5f165d1dea",
+        "SeasonNumber": "Season 4"
+    },
+    {
+        "Version": "++Fortnite+Release-7.30-CL-4834550-Shipping-Windows",
+        "Manifest_ID": "8MYIDmwwomgXz_O0TUy0IC5y0ZUD-g",
+        "SeasonNumber": "Season 7"
+    },
+    {
+        "Version": "++Fortnite+Release-7.40-CL-5046157-Shipping-Windows",
+        "Manifest_ID": "Q8ph88FxJtDqcyJmvUaG6fHzDtjJZA",
+        "SeasonNumber": "Season 7"
+    },
+    {
+        "Version": "++Fortnite+Release-8.00-CL-5203069-Shipping-Windows",
+        "Manifest_ID": "NG07wjIyXZIU9qkeTUK1F4TqJ4bmTQ",
+        "SeasonNumber": "Season 8"
+    },
+    {
+        "Version": "++Fortnite+Release-8.20-CL-5625478-Shipping-Windows",
+        "Manifest_ID": "x38m5mG7upd9og3yGE-ueFK_O6BIQw",
+        "SeasonNumber": "Season 8"
+    },
+    {
+        "Version": "++Fortnite+Release-8.30-CL-5793395-Shipping-Windows",
+        "Manifest_ID": "AIwH4n9OxkItTP-mm0WaczfFJMvz3g",
+        "SeasonNumber": "Season 8"
+    },
+    {
+        "Version": "++Fortnite+Release-8.40-CL-6005771-Shipping-Windows",
+        "Manifest_ID": "s0i1dCn0kmzuWgbk90G0_cs8MN2qiw",
+        "SeasonNumber": "Season 8"
+    },
+    {
+        "Version": "++Fortnite+Release-8.50-CL-6058028-Shipping-Windows",
+        "Manifest_ID": "7Om3eXVxOTO5r1vO-ES5AE-fKKwg1w",
+        "SeasonNumber": "Season 8"
+    },
+    {
+        "Version": "++Fortnite+Release-8.51-CL-6165369-Shipping-Windows",
+        "Manifest_ID": "21yEPkbqhNy_ePUECE6oTHEmg0SIfw",
+        "SeasonNumber": "Season 8"
+    },
+    {
+        "Version": "++Fortnite+Release-9.00-CL-6337466-Shipping-Windows",
+        "Manifest_ID": "C3X86uPUO7rnPHrTG0S_sc8MXsPTFw",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.01-CL-6428087-Shipping-Windows",
+        "Manifest_ID": "4Sk9lFTsWh8D8G5bu0GAsFfJytlcMg",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.10-CL-6573057-Shipping-Windows",
+        "Manifest_ID": "zPxI3f1ZAFSgFAMCZ0mjKySOC1AU5g",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.10-CL-6616201-Shipping-Windows",
+        "Manifest_ID": "bUVzbMy3cXw_TZ_nOUudQYTzqU8B0w",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.10-CL-6639283-Shipping-Windows",
+        "Manifest_ID": "EwnvZ_rcCnmmOGRl9k6I2cKbZKpZog",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.20-CL-6822798-Shipping-Windows",
+        "Manifest_ID": "fomNLp5WNnJMCktOx0ehYYhXHjQ4PQ",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.21-CL-6922310-Shipping-Windows",
+        "Manifest_ID": "RWD-a5em9GzeNI9OK0aCgRMoxsaOIw",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.30-CL-7021684-Shipping-Windows",
+        "Manifest_ID": "Ny9N1fq0vOHr6Y6fhEyumZAfbiqCsA",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.30-CL-7095426-Shipping-Windows",
+        "Manifest_ID": "HrjjiaI8qjk0eZ76_Ey2bOwsoKgynw",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.40-CL-7315705-Shipping-Windows",
+        "Manifest_ID": "BJqXmVW32yHN2EDJlkiwUn0CyZDm1g",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.41-CL-7463579-Shipping-Windows",
+        "Manifest_ID": "nVbZgzQG9HpntwQMmEm5ic1NLV_EeQ",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-9.41-CL-7609292-Shipping-Windows",
+        "Manifest_ID": "XA1rr1l_FpmcNdkr7kG1CXRUNcX8lg",
+        "SeasonNumber": "Season 9"
+    },
+    {
+        "Version": "++Fortnite+Release-10.0-CL-7658179-Shipping-Windows",
+        "Manifest_ID": "wcfjh9c-okLtEOiDMkG8VzIC1p-ENg",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.0-CL-7704164-Shipping-Windows",
+        "Manifest_ID": "7C0cEaVSyWc6Fge6RE2N7IqJ4oPhww",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.10-CL-7955722-Shipping-Windows",
+        "Manifest_ID": "QpjVgBdS5NubVduhREqDPr8piZTw-w",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.20-CL-8243923-Shipping-Windows",
+        "Manifest_ID": "_bbar1M1lP4jGq8rh0-aNNBuLtiykQ",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.20-CL-8360257-Shipping-Windows",
+        "Manifest_ID": "VMzZoB9Jq0hTA6qusEm04UnAh6UKBA",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.20-CL-8456527-Shipping-Windows",
+        "Manifest_ID": "tzAOZKgKw-0aMGrTR0quWeW2a6OYmA",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.30-CL-8569414-Shipping-Windows",
+        "Manifest_ID": "9ZamWPoRkp27pBkCmEW67-k3ekT4ZQ",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.31-CL-8723043-Shipping-Windows",
+        "Manifest_ID": "DN-rIV_Kr52qz46BIkWDz1yk1fvR3A",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.40-CL-8970213-Shipping-Windows",
+        "Manifest_ID": "V4MspBnLrkKqBr8NAU2NeORA1Vj0bA",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.40-CL-9302865-Shipping-Windows",
+        "Manifest_ID": "wOtgyHQea154yQ0EfUqZDhS6yTqsig",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-10.40-CL-9380822-Shipping-Windows",
+        "Manifest_ID": "8B9_KlR_rT7EAYpOQ0-Z_6gvsOS2yQ",
+        "SeasonNumber": "Season 10"
+    },
+    {
+        "Version": "++Fortnite+Release-11.00-CL-9562734-Shipping-Windows",
+        "Manifest_ID": "5-0v4B3kpK4XpRczak2Pc7dtlqah1A",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.00-CL-9603448-Shipping-Windows",
+        "Manifest_ID": "sMeK9k1aLob5LB-hoUKKLmUfxwC-1Q",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.01-CL-9728272-Shipping-Windows",
+        "Manifest_ID": "QZRwNP2PFJA8ZRaJf0CvTdp_lifayg",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.10-CL-9844520-Shipping-Windows",
+        "Manifest_ID": "4Qd63MleE2D9iPwREU2lELyJc--PFA",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.10-CL-9901083-Shipping-Windows",
+        "Manifest_ID": "4uiD_B-WF9I5W4h1M0m11f7iQ8zu6g",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.11-CL-10082788-Shipping-Windows",
+        "Manifest_ID": "iVPwyvOxVsK6klhS1UeSRfQfJbPGZA",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.20-CL-10297577-Shipping-Windows",
+        "Manifest_ID": "nx1sa8DEmaw-9_I8YEiMZ50FaDr0AQ",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.20-CL-10328358-Shipping-Windows",
+        "Manifest_ID": "WmJlwXvlu0LMLVGGqUmXPy93OQSFBw",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.21-CL-10481509-Shipping-Windows",
+        "Manifest_ID": "fKa-ZiFTzVP69JIxIky1OfZ0KPZnMQ",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.30-CL-10639804-Shipping-Windows",
+        "Manifest_ID": "b26Zho3UFXcmjFwIy0G8T4x3tbX1yA",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.30-CL-10708866-Shipping-Windows",
+        "Manifest_ID": "DDQp02DHMVKums1CD0a5qa-GxxTxJg",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.31-CL-10760473-Shipping-Windows",
+        "Manifest_ID": "Dp8ZQlhdJ9tyQRRMGkO3gpZgQMGZmw",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.31-CL-10795579-Shipping-Windows",
+        "Manifest_ID": "M6XhmsGG8zV2O9EOkkqfKOfb9CBNeA",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.31-CL-10800459-Shipping-Windows",
+        "Manifest_ID": "I9bgKLDRd2f-FvbbCkiyhu_u2eczYg",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.40-CL-10951104-Shipping-Windows",
+        "Manifest_ID": "gWTicfkWyAH3_8fpQEixmSUn0qhcSA",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.40-CL-11039906-Shipping-Windows",
+        "Manifest_ID": "jpzvVty5Z5mmS0h9y0O72YRP0hTjFA",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.40-CL-11109625-Shipping-Windows",
+        "Manifest_ID": "MErWwWjI-gmQmpwUCE-smeOIJY_L-A",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.50-CL-11204868-Shipping-Windows",
+        "Manifest_ID": "skWUaAJHBVlghBWDmku50A2BNtOJ1Q",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-11.50-CL-11265652-Shipping-Windows",
+        "Manifest_ID": "o8omInZNucJoBbOSh0iU2JCJW5aV9w",
+        "SeasonNumber": "Season 11"
+    },
+    {
+        "Version": "++Fortnite+Release-12.00-CL-11556442-Shipping-Windows",
+        "Manifest_ID": "dLIo12SBCCJ13prtkEux9bq75peaaA",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.00-CL-11566760-Shipping-Windows",
+        "Manifest_ID": "zQVuaHVgKVM7M0lDNUapSOMstSi93w",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.00-CL-11586896-Shipping-Windows",
+        "Manifest_ID": "WG_A20YyTgZJqtTAikSFdl0DmX4pHw",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.10-CL-11794982-Shipping-Windows",
+        "Manifest_ID": "OZ1A766vl6Uj_Nf-C02US-sgDesERw",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.10-CL-11883027-Shipping-Windows",
+        "Manifest_ID": "19R3rvzj1VXoJVLUlEyfNTi0HPeztQ",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.20-CL-12170032-Shipping-Windows",
+        "Manifest_ID": "SkZEU_IJTiW1z-hvyUCQY4AonuHmJQ",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.20-CL-12236980-Shipping-Windows",
+        "Manifest_ID": "mVCAttTZSI3CLUbvdEmn1Yu08271-w",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.21-CL-12353830-Shipping-Windows",
+        "Manifest_ID": "9_K5hT-t-j1KPiPCXkCzWNSsvzDRTw",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.30-CL-12493283-Shipping-Windows",
+        "Manifest_ID": "X-9EArNutqedIqnak0u3fARhNtBvYg",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.30-CL-12624643-Shipping-Windows",
+        "Manifest_ID": "4lcktXU--gKJ8XJo3EGtkKzNBGyGdQ",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.40-CL-12837456-Shipping-Windows",
+        "Manifest_ID": "d_Or-l0fAsszcitXgE-_9nI4-TANLg",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.41-CL-12905909-Shipping-Windows",
+        "Manifest_ID": "jTfg_xZZ2H4T9L__PEmzI2Y90hr9Aw",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.50-CL-13044369-Shipping-Windows",
+        "Manifest_ID": "WFWEb9HuFddgR84jm0SHQAzLSw6u2g",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.50-CL-13137020-Shipping-Windows",
+        "Manifest_ID": "gVGThRYKo0MZpIko_0mWf6b0MBCleA",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.50-CL-13193885-Shipping-Windows",
+        "Manifest_ID": "Hz6B_sHg1yMiMfG5uUq93flJAlosuw",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.60-CL-13315662-Shipping-Windows",
+        "Manifest_ID": "KVqZ_bGv9_ZjYaRWn0SwSEizJyeJiQ",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.60-CL-13477524-Shipping-Windows",
+        "Manifest_ID": "FgKMa-wCOesX6Abl1kifJYcLTuJ-5A",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-12.61-CL-13498980-Shipping-Windows",
+        "Manifest_ID": "kpWEntSL0uNcIcH4ZUm6nFsFnar-3w",
+        "SeasonNumber": "Season 12"
+    },
+    {
+        "Version": "++Fortnite+Release-13.00-CL-13649278-Shipping-Windows",
+        "Manifest_ID": "ZUQyNUHswApJSCYuokeA-Q7j60nFHg",
+        "SeasonNumber": "Season 13"
+    },
+    {
+        "Version": "++Fortnite+Release-13.00-CL-13696059-Shipping-Windows",
+        "Manifest_ID": "6w63WNDQ6fnOhOZ3SE-vegG_R-EQlg",
+        "SeasonNumber": "Season 13"
+    },
+    {
+        "Version": "++Fortnite+Release-13.00-CL-13715544-Shipping-Windows",
+        "Manifest_ID": "-HHPY5se-mwf2BiOLkSRJvaCWDUKnA",
+        "SeasonNumber": "Season 13"
+    },
+    {
+        "Version": "++Fortnite+Release-13.20-CL-13777676-Shipping-Windows",
+        "Manifest_ID": "zOUaEMjHOjnoHT50tEmEUqeJAT7mLA",
+        "SeasonNumber": "Season 13"
+    },
+    {
+        "Version": "++Fortnite+Release-13.30-CL-13884634-Shipping-Windows",
+        "Manifest_ID": "__d-73Y9siJhxSaCRE6egZe3gbpjNw",
+        "SeasonNumber": "Season 13"
+    },
+    {
+        "Version": "++Fortnite+Release-13.40-CL-14008768-Shipping-Windows",
+        "Manifest_ID": "r70n58nGmOBda57S_EST7qGOsLgPTw",
+        "SeasonNumber": "Season 13"
+    },
+    {
+        "Version": "++Fortnite+Release-13.40-CL-14036559-Shipping-Windows",
+        "Manifest_ID": "lxP7nVJQuqONDOBmy0eOuS3UycHqKA",
+        "SeasonNumber": "Season 13"
+    },
+    {
+        "Version": "++Fortnite+Release-13.40-CL-14113327-Shipping-Windows",
+        "Manifest_ID": "k39Q5tXfdlFV3Vi8tEWwdzJstOCncw",
+        "SeasonNumber": "Season 13"
+    },
+    {
+        "Version": "++Fortnite+Release-14.00-CL-14173417-Shipping-Windows",
+        "Manifest_ID": "WIYuFdTOCn_b67Mnik-Q0teZEIWd-Q",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.00-CL-14199892-Shipping-Windows",
+        "Manifest_ID": "-IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.00-CL-14211474-Shipping-Windows",
+        "Manifest_ID": "eV3odPpOFO5KqwyQaUqN6BRpXUIV1Q",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.10-CL-14276912-Shipping-Windows",
+        "Manifest_ID": "HhLsZiMFk17s3fY5i0OSBOI8MtsFdA",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.10-CL-14288110-Shipping-Windows",
+        "Manifest_ID": "A5rhLa8WYtEHXXDBu0qY6QjeYRAZBA",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.10-CL-14312695-Shipping-Windows",
+        "Manifest_ID": "iOp7OXIvJZsHpe1X6UavQXOryv-3dg",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.20-CL-14354056-Shipping-Windows",
+        "Manifest_ID": "3EjPigM-G_w7AHCIrUyLHu8t4KWtUA",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.20-CL-14375974-Shipping-Windows",
+        "Manifest_ID": "cbEscV3_fQIaHll8QEyadlm1u45o5g",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.20-CL-14384759-Shipping-Windows",
+        "Manifest_ID": "08opnel1yrNVPmiQFkGQw7aDSvgUKg",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.30-CL-14456520-Shipping-Windows",
+        "Manifest_ID": "vSRBaHxfB_kuksWOEk2_PfUPG22MVw",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.40-CL-14512399-Shipping-Windows",
+        "Manifest_ID": "BQ1lc_hzhBmmkfMkv0i-kBwqATdi0w",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.40-CL-14550713-Shipping-Windows",
+        "Manifest_ID": "DClI318w-7eAMz2fmUuHgSkAlomU6g",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.50-CL-14617811-Shipping-Windows",
+        "Manifest_ID": "TeUEJvLhEenUjW_LzEqFQuARF-vgoQ",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.50-CL-14643651-Shipping-Windows",
+        "Manifest_ID": "iy2C4VZCKwMe83dKd0KofFbo8RcXmQ",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.60-CL-14756138-Shipping-Windows",
+        "Manifest_ID": "eTVXl5pN2ru94uvYIkGIwgecMM0m_g",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.60-CL-14785135-Shipping-Windows",
+        "Manifest_ID": "J7nUADncwk2szmTXwE-6Apsbr0ChGg",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-14.60-CL-14786821-Shipping-Windows",
+        "Manifest_ID": "0zBnTzhzHTTQw-bMo06bpGonsWK9AA",
+        "SeasonNumber": "Season 14"
+    },
+    {
+        "Version": "++Fortnite+Release-15.00-CL-14826719-Shipping-Windows",
+        "Manifest_ID": "hEC9dL7-jjhVjaT9Ek6g5kPNmfx_oA",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.00-CL-14835335-Shipping-Windows",
+        "Manifest_ID": "pxgus3IjKexjBYe8O0qy6lPWTTBxOg",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.10-CL-14904303-Shipping-Windows",
+        "Manifest_ID": "BW4Td1PSNWngBf-BQEO9orJjii-kyw",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.10-CL-14937640-Shipping-Windows",
+        "Manifest_ID": "g0WsAHmkYXL2MsV-lECsXK2PGKZOAQ",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.10-CL-15014719-Shipping-Windows",
+        "Manifest_ID": "gFzfWbu3uGpAQMxlskKxadJKCcOafA",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.20-CL-15033494-Shipping-Windows",
+        "Manifest_ID": "-oaPq13DQ1T7VAH3tUGxunSLza2Xdg",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.20-CL-15070882-Shipping-Windows",
+        "Manifest_ID": "ZC0C_kRQmlplPnuYMEursbDWqdT4XQ",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.21-CL-15083856-Shipping-Windows",
+        "Manifest_ID": "PHWYNb_1EXWoIgq2JkuOABaZKZ2uAQ",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.30-CL-15233634-Shipping-Windows",
+        "Manifest_ID": "4f_fOfqIHIMBff3XsUC2wdIZNvfgQg",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.30-CL-15316852-Shipping-Windows",
+        "Manifest_ID": "ejVcIMPTubEZ8oT6uU6eVNk43YKPvw",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.30-CL-15341163-Shipping-Windows",
+        "Manifest_ID": "x1dAKmBiMCwiWxbrt0yOzckFfitG8g",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.40-CL-15385160-Shipping-Windows",
+        "Manifest_ID": "M-uL6hJU0HVPJLI2lUiqtQQsA7VYkg",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.40-CL-15419568-Shipping-Windows",
+        "Manifest_ID": "u4MEHBVOxXYICGW680mzbo3QSEu58Q",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.40-CL-15424013-Shipping-Windows",
+        "Manifest_ID": "tXOCpnf2iyNxmTGA0UqZ7NpEB08xmQ",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.40-CL-15496915-Shipping-Windows",
+        "Manifest_ID": "NgICIOEJN6SUFYK6X0atmFurBtw_kQ",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.50-CL-15526472-Shipping-Windows",
+        "Manifest_ID": "vJW5mNtj-KyKaUo26E2UeuDBXtgUNQ",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-15.50-CL-15570449-Shipping-Windows",
+        "Manifest_ID": "N4qaUfEGF1WRgxFYSEK0dCyF-9DLfg",
+        "SeasonNumber": "Season 15"
+    },
+    {
+        "Version": "++Fortnite+Release-16.00-CL-15685441-Shipping-Windows",
+        "Manifest_ID": "0TUjehLQVK8zW6tqWkquGEm4QAE0xg",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.00-CL-15713390-Shipping-Windows",
+        "Manifest_ID": "2N-wx7hYkt8Ni7lBDkausAkNOmtdoA",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.00-CL-15727376-Shipping-Windows",
+        "Manifest_ID": "sjtPnOPJGVjpCn_MeU62f4dUQqSe4g",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.10-CL-15851811-Shipping-Windows",
+        "Manifest_ID": "L9rTqg1OLlwprMBpdUaiNYI4-yUc5Q",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.10-CL-15862581-Shipping-Windows",
+        "Manifest_ID": "CIwICRP-E1flI4b-XUWFsQdska-RbQ",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.10-CL-15883297-Shipping-Windows",
+        "Manifest_ID": "-rvrkgHU7oWbYnwuPES1P2BfFi7QMQ",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.10-CL-15898731-Shipping-Windows",
+        "Manifest_ID": "RIbiJD1siAR2cVG_wUuKp5lPxnvCkw",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.10-CL-15913292-Shipping-Windows",
+        "Manifest_ID": "Twf_6XRPiaDIGrA6ckiSmI1V6FqxSQ",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.20-CL-15961073-Shipping-Windows",
+        "Manifest_ID": "45Yu75CiPHkk0EzIj0WBYuF9VW19zA",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.20-CL-15987165-Shipping-Windows",
+        "Manifest_ID": "p60cPJmW8tjdLQbgWkqIlst_ZBXYkA",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.20-CL-15998392-Shipping-Windows",
+        "Manifest_ID": "-DzHROu43oWjoqUbwkqtK2BcyusIJg",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.20-CL-16042441-Shipping-Windows",
+        "Manifest_ID": "ob4MNq3vl1K4IlNrQkmMRHKGXHri0Q",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.30-CL-16086208-Shipping-Windows",
+        "Manifest_ID": "OzKzsnONyKV98T6gPU-kYL2m23VpgQ",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.30-CL-16163563-Shipping-Windows",
+        "Manifest_ID": "mnQTrr-mpTUTiv5Ab0qsYu_TrsLYzA",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.40-CL-16218553-Shipping-Windows",
+        "Manifest_ID": "PlBdWqpuSh7V8Uc_yUG5gX8HFLPwag",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.50-CL-16432754-Shipping-Windows",
+        "Manifest_ID": "myacVPh3VDv1zXI4Z0OpAVE76zqoiQ",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-16.50-CL-16469788-Shipping-Windows",
+        "Manifest_ID": "JoLlB3IhtR6FpOfjYEuCkElNi5yxOA",
+        "SeasonNumber": "Season 16"
+    },
+    {
+        "Version": "++Fortnite+Release-17.00-CL-16555138-Shipping-Windows",
+        "Manifest_ID": "r01_i6Vdba86jyg6K0mmOLfNO_rmAw",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.00-CL-16593740-Shipping-Windows",
+        "Manifest_ID": "nowzVL6UKD9nC3vhPEuIX1kZWIez0Q",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.10-CL-16701187-Shipping-Windows",
+        "Manifest_ID": "rv6Abzcql-WLokq8PEOGZF7jXTcBOw",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.10-CL-16745144-Shipping-Windows",
+        "Manifest_ID": "SCNv_xqyQm1ABpj-T0-sMEjXmbiRHQ",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.20-CL-16868155-Shipping-Windows",
+        "Manifest_ID": "YBHDg0lcr9LtodRbfUeKzV7rGyt2QA",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.21-CL-16949556-Shipping-Windows",
+        "Manifest_ID": "hyS6T7m1z-V4PCkngEe4SvuqSEzrHQ",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.21-CL-16967001-Shipping-Windows",
+        "Manifest_ID": "FTvF_Dz-EmynfOkGiE-OMdvqTWKa2Q",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.30-CL-17004569-Shipping-Windows",
+        "Manifest_ID": "iv2x3ijMayy7Mynn20ygKCjg5W1j_w",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.40-CL-17162853-Shipping-Windows",
+        "Manifest_ID": "fcwYvaMl7pSHfGB-fkmsiSRMqmHUtw",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.40-CL-17215766-Shipping-Windows",
+        "Manifest_ID": "rTR-Nb3LTmsCkWfeDEmXnKyETh1kow",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.40-CL-17269705-Shipping-Windows",
+        "Manifest_ID": "dLQOoiwtjYOwEaMOHkazSPcbOun7Zg",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.50-CL-17328477-Shipping-Windows",
+        "Manifest_ID": "3s5iqjYc82CMkzQWx0CqVuDf0r3xhg",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-17.50-CL-17388565-Shipping-Windows",
+        "Manifest_ID": "hbkx_qhpofyAGF3VQUaU-0ke3WwKBg",
+        "SeasonNumber": "Season 17"
+    },
+    {
+        "Version": "++Fortnite+Release-18.00-CL-17468642-Shipping-Windows",
+        "Manifest_ID": "mh3_CA8IVhnXD5PIZkKw-9yyY0jaQw",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-18.00-CL-17519952-Shipping-Windows",
+        "Manifest_ID": "j8Xdl9aEhZ-WkNenIUywKT0MrOAoxA",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-18.10-CL-17619277-Shipping-Windows",
+        "Manifest_ID": "5aOpBhE4Ru3-v2YFzUSGGuWGdEzyXQ",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-18.10-CL-17661844-Shipping-Windows",
+        "Manifest_ID": "hu7N3s__H28na2Oro06-draLSCt5UQ",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-18.20-CL-17745267-Shipping-Windows",
+        "Manifest_ID": "NVDpDsRkObzIXej9LkeokHUwMj2B_A",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-18.20-CL-17792290-Shipping-Windows",
+        "Manifest_ID": "BfWO8e9010Z7Rt1wVUWCYBt5X-EhOQ",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-18.21-CL-17811397-Shipping-Windows",
+        "Manifest_ID": "OW-ufOH2A5Ofv8BdZkqkK7BdOh5_lg",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-18.30-CL-17882303-Shipping-Windows",
+        "Manifest_ID": "qtQkupWgkRT0VojLbEyVUX_v2CJsPA",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-18.40-CL-18163738-Shipping-Windows",
+        "Manifest_ID": "BIZ9URud-wgSnyLid0OGLukI37r96A",
+        "SeasonNumber": "Season 18"
+    },
+    {
+        "Version": "++Fortnite+Release-19.00-CL-18335626-Shipping-Windows",
+        "Manifest_ID": "3jmxoAS1Tgz9gq7E-0aS-x8K-VGl-Q",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.00-CL-18380290-Shipping-Windows",
+        "Manifest_ID": "cNHihchpitbEYAXS-EKrV5kp-IZt3A",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.01-CL-18415863-Shipping-Windows",
+        "Manifest_ID": "qU41bqg7uhIaWfNN40-Fp093MSdhBQ",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.01-CL-18489740-Shipping-Windows",
+        "Manifest_ID": "sr6SWap2l2Th30T0yEu2Ux55PgJiJg",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.10-CL-18581131-Shipping-Windows",
+        "Manifest_ID": "Dzy45W3awM9A0zrZjk-wYa2_A2RaYA",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.10-CL-18640491-Shipping-Windows",
+        "Manifest_ID": "rHexY5nBJfWMpebS-E2gjadk45PkmQ",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.10-CL-18675304-Shipping-Windows",
+        "Manifest_ID": "1NvzUq3kqI4tf6gUB0uPlpO5p3KA-A",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.20-CL-18775446-Shipping-Windows",
+        "Manifest_ID": "QmlSaeGwrvA00GMFGkaC0jV6zRe-Sw",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.30-CL-18948597-Shipping-Windows",
+        "Manifest_ID": "sFI_6cQceiw9r_ygt0u2ByaSfqpOdA",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.30-CL-19027703-Shipping-Windows",
+        "Manifest_ID": "_VitLSYEQWEEAA7bLUCchjzkBQZ49A",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.40-CL-19167615-Shipping-Windows",
+        "Manifest_ID": "wILco71Qnua2z_S18Uq_kNuR2BWe_g",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-19.40-CL-19215531-Shipping-Windows",
+        "Manifest_ID": "gbEURBYqoXFtBOGD_kqR3AaHo8H_og",
+        "SeasonNumber": "Season 19"
+    },
+    {
+        "Version": "++Fortnite+Release-20.00-CL-19381079-Shipping-Windows",
+        "Manifest_ID": "6KF2p_eL4gOQcGQ9WUu1gs_RcqjxRw",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.00-CL-19458861-Shipping-Windows",
+        "Manifest_ID": "iO3OqoyzG8UhdZglSkOns_Zohj53hA",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.00-CL-19532288-Shipping-Windows",
+        "Manifest_ID": "z1z7_kWtA-qplo6njEKdDmZfgh8jXQ",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.10-CL-19598943-Shipping-Windows",
+        "Manifest_ID": "9fpTQALSrJBgGtbokkmsXKFGVbc7Dg",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.20-CL-19751212-Shipping-Windows",
+        "Manifest_ID": "IW78X73_lltKnT10HEWo0nd4qiQR7Q",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.20-CL-19896998-Shipping-Windows",
+        "Manifest_ID": "zmtUSJOvYkIM_cMwTUu_pwnSpdnUIw",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.30-CL-19950687-Shipping-Windows",
+        "Manifest_ID": "BsuCvJ815VbFKPegskeAUusgpXx-Kg",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.30-CL-20037261-Shipping-Windows",
+        "Manifest_ID": "GNEdwWsWRB54niwy70WJpDoF-dcJaA",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.40-CL-20175294-Shipping-Windows",
+        "Manifest_ID": "IxyCDxsNwIB8fOka9kizbvHJ2q3J8w",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-20.40-CL-20244966-Shipping-Windows",
+        "Manifest_ID": "b0olgg0z0UhYUqjbukqGxSxCfxHNWQ",
+        "SeasonNumber": "Season 20"
+    },
+    {
+        "Version": "++Fortnite+Release-21.00-CL-20463113-Shipping-Windows",
+        "Manifest_ID": "BYoPt8OAt4JoMUHx9UC9ERHSMU776w",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.00-CL-20548557-Shipping-Windows",
+        "Manifest_ID": "bXWmp5L6e8z16lN56UCK2zhEii1TQg",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.10-CL-20696680-Shipping-Windows",
+        "Manifest_ID": "-Yybxi9oJtChHWh2d0ya33nKGk7YkA",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.10-CL-20756627-Shipping-Windows",
+        "Manifest_ID": "Wz80J8uSv3BhgK6rIkyaREIXDrrPIQ",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.10-CL-20777648-Shipping-Windows",
+        "Manifest_ID": "ulw6AHrZtxuKr32ZLEqca_3wRZ39Sw",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.10-CL-20829351-Shipping-Windows",
+        "Manifest_ID": "KO_g7Ry-0c_CDELSBUC2bAEOuSR_cQ",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.20-CL-20890025-Shipping-Windows",
+        "Manifest_ID": "9b4WqQ-uLEFXguM4PEyoOgkpfZf5Yg",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.20-CL-20978394-Shipping-Windows",
+        "Manifest_ID": "g1LTcWSYRHRc5kLjlkONuiv8MVtd7w",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.20-CL-21035704-Shipping-Windows",
+        "Manifest_ID": "xN36l1AnLX31v4RSfUyWdl5ExfKoYA",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.30-CL-21102315-Shipping-Windows",
+        "Manifest_ID": "ORlbYKPX-2XfK2QzCES0asMgyuZTDw",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.30-CL-21155462-Shipping-Windows",
+        "Manifest_ID": "qjko-VuiyS7KPPoqK02119pgMpxXOA",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.40-CL-21348157-Shipping-Windows",
+        "Manifest_ID": "QvsXGYC2isvd1w4Zhk22Tv-JghOlOA",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.40-CL-21407327-Shipping-Windows",
+        "Manifest_ID": "WUaXR355lFmMzFTplUSWsW6y5ZkNsg",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.50-CL-21657658-Shipping-Windows",
+        "Manifest_ID": "gDM5ebFV-IqAKqn6DE2RAorEPOnqxQ",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-21.51-CL-21735703-Shipping-Windows",
+        "Manifest_ID": "WC8F4eb-B7ndkPA6sEi8eDz5zJ4kRQ",
+        "SeasonNumber": "Season 21"
+    },
+    {
+        "Version": "++Fortnite+Release-22.00-CL-22026835-Shipping-Windows",
+        "Manifest_ID": "p2uWIQyT-J9hCjQkQEGYLcp8HOEbog",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.00-CL-22072684-Shipping-Windows",
+        "Manifest_ID": "yN1RChX_YYuE_JfOhkeDj3wNX0d4QQ",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.00-CL-22107157-Shipping-Windows",
+        "Manifest_ID": "Na0ceNkEKkNoXeFLRESY-bPav9DoLQ",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.00-CL-22149829-Shipping-Windows",
+        "Manifest_ID": "IJ6Emy1l3xdA7z-vRkaIztthk9-5mQ",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.10-CL-22240570-Shipping-Windows",
+        "Manifest_ID": "vipEh_Q7IAKU3BYRRUypm2181HYO3g",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.10-CL-22429549-Shipping-Windows",
+        "Manifest_ID": "qkL_abvEOBJzzDL00kaQ4zkiGJYisg",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.20-CL-22523251-Shipping-Windows",
+        "Manifest_ID": "hhE_Nv0W8dCcTSnDMk6l5T_mfRARQA",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.20-CL-22600409-Shipping-Windows",
+        "Manifest_ID": "0ImR0jb_0dnUkK5Z6ka0OBkpv7iKsg",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.30-CL-22803135-Shipping-Windows",
+        "Manifest_ID": "DgvMjqMEz8KeBdRCJ0i_Biev3Eb-2Q",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-22.40-CL-23070899-Shipping-Windows",
+        "Manifest_ID": "yTUVvOU-BiOQgUeuLkavho8cCAt9_g",
+        "SeasonNumber": "Season 22"
+    },
+    {
+        "Version": "++Fortnite+Release-23.00-CL-23344627-Shipping-Windows",
+        "Manifest_ID": "rI9ROK-1oURsD0RM6UqYcNk1sArzAw",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.10-CL-23443094-Shipping-Windows",
+        "Manifest_ID": "_gVrOnugeJossBkVEk2msv4jt9FDvg",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.10-CL-23572221-Shipping-Windows",
+        "Manifest_ID": "w2lgMFMmd79UdXHtlUWxH9EZ3U_jEw",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.20-CL-23659353-Shipping-Windows",
+        "Manifest_ID": "GONPEW1klCRTH0RBCUu1g52Qn4hPlA",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.20-CL-23783097-Shipping-Windows",
+        "Manifest_ID": "sK5yWrlEOlMO7_YwZECGi9P8vIS4yg",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.30-CL-23901854-Shipping-Windows",
+        "Manifest_ID": "juYYQy4X7Lw6BIiW0ECjs0VMaCrUtQ",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.30-CL-23986860-Shipping-Windows",
+        "Manifest_ID": "gRZwhI2VURgAbV5WAE2GzFXNmyD6yA",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.40-CL-24087481-Shipping-Windows",
+        "Manifest_ID": "ogescm5CttfncfGWbUa1-EfOJSI86w",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.50-CL-24376996-Shipping-Windows",
+        "Manifest_ID": "C8ZLjobIjxekABgdg0205oguOObXfQ",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-23.50-CL-24441668-Shipping-Windows",
+        "Manifest_ID": "xi9aV9FCJaEpqYcwEkGla0jYnLjjWw",
+        "SeasonNumber": "Season 23"
+    },
+    {
+        "Version": "++Fortnite+Release-24.00-CL-24554913-Shipping-Windows",
+        "Manifest_ID": "J5azCyfV2jn3eZtiw0aqsyZiwQJsZg",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.01-CL-24672685-Shipping-Windows",
+        "Manifest_ID": "E8kYSgfFkvilKPhZYUGhNpMuXQ40TQ",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.01-CL-24757023-Shipping-Windows",
+        "Manifest_ID": "JVL65iVPIBZ8dEO5w0KrIw-w7eWKaA",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.10-CL-24770548-Shipping-Windows",
+        "Manifest_ID": "yJzmpr7dX8g0Q2t7vEyYqNfGYXezfg",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.10-CL-24903530-Shipping-Windows",
+        "Manifest_ID": "N0zfnTCBNb4rhEbNm0izqdHiVbCoaQ",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.20-CL-24939793-Shipping-Windows",
+        "Manifest_ID": "ois5wAXb8Ey7DnuQCE6Bov2JuNamNg",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.20-CL-25019967-Shipping-Windows",
+        "Manifest_ID": "1Bcu9mbzJvm-QvIrb0CL1r2rl1DQaQ",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.20-CL-25058254-Shipping-Windows",
+        "Manifest_ID": "tmTvOoFm8OIjCeEGcEy5K-JduF6EvA",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.20-CL-25156858-Shipping-Windows",
+        "Manifest_ID": "5BHctenF6Pa18s1RHUCk5T1__ERIFg",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.30-CL-25210886-Shipping-Windows",
+        "Manifest_ID": "k0qQ8OW4iRnz9BsuvkGe-kDeD304jA",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.30-CL-25347382-Shipping-Windows",
+        "Manifest_ID": "7rRQaEpSegmh97PgEUuJLFvvxnYHEg",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.40-CL-25420516-Shipping-Windows",
+        "Manifest_ID": "h1LrH7m6sal5AkDnKEqBVaHGJmOsHw",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.40-CL-25521145-Shipping-Windows",
+        "Manifest_ID": "Wi3PzpC9YlzGQAyqJE2XDzUJP-aBIg",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-24.40-CL-25595478-Shipping-Windows",
+        "Manifest_ID": "fVxH4TNQnx8Cfzq2GkKq1VTK1BQeJw",
+        "SeasonNumber": "Season 24"
+    },
+    {
+        "Version": "++Fortnite+Release-25.00-CL-25784668-Shipping-Windows",
+        "Manifest_ID": "g5VjWQg55a48ElUgNEiXpXYA_7xDxA",
+        "SeasonNumber": "Season 25"
+    },
+    {
+        "Version": "++Fortnite+Release-25.00-CL-25909622-Shipping-Windows",
+        "Manifest_ID": "aR-p-XE-qiz2uidz3k636UNRwJ-eyg",
+        "SeasonNumber": "Season 25"
+    },
+    {
+        "Version": "++Fortnite+Release-25.10-CL-26000959-Shipping-Windows",
+        "Manifest_ID": "gY2susW1j64QkJwtl0eXncvfNFiojA",
+        "SeasonNumber": "Season 25"
+    },
+    {
+        "Version": "++Fortnite+Release-25.11-CL-26171015-Shipping-Windows",
+        "Manifest_ID": "2k_ALw2g9R84eHono0moitIwSjUPxQ",
+        "SeasonNumber": "Season 25"
+    },
+    {
+        "Version": "++Fortnite+Release-25.20-CL-26474516-Shipping-Windows",
+        "Manifest_ID": "lfSfO7-b0Jz3-kYWwk-LAHXvXIKPdw",
+        "SeasonNumber": "Season 25"
+    },
+    {
+        "Version": "++Fortnite+Release-25.20-CL-26629111-Shipping-Windows",
+        "Manifest_ID": "L3MuneAYL7-WM5YBFk6OtxGSl5DeHw",
+        "SeasonNumber": "Season 25"
+    },
+    {
+        "Version": "++Fortnite+Release-25.30-CL-26867995-Shipping-Windows",
+        "Manifest_ID": "xEYdLync_S_cqC_wI0W3MelBYX1nvg",
+        "SeasonNumber": "Season 25"
+    },
+    {
+        "Version": "++Fortnite+Release-26.00-CL-27233190-Shipping-Windows",
+        "Manifest_ID": "k3pvBY__gYAhQAV2pUS0NYGb2dcbxg",
+        "SeasonNumber": "Season 26"
+    },
+    {
+        "Version": "++Fortnite+Release-26.00-CL-27424790-Shipping-Windows",
+        "Manifest_ID": "GFp_xYd0U-HIJv1ZwECaLu9sK-XoXw",
+        "SeasonNumber": "Season 26"
+    },
+    {
+        "Version": "++Fortnite+Release-26.10-CL-27681420-Shipping-Windows",
+        "Manifest_ID": "2-eszY6Q0kkzQ6upTEaaQ3-fv_cndQ",
+        "SeasonNumber": "Season 26"
+    },
+    {
+        "Version": "++Fortnite+Release-26.20-CL-28096793-Shipping-Windows",
+        "Manifest_ID": "R8h3jNWRzHO8Ap3SVkOo3glgYBVl5g",
+        "SeasonNumber": "Season 26"
+    },
+    {
+        "Version": "++Fortnite+Release-26.30-CL-28509302-Shipping-Windows",
+        "Manifest_ID": "549PGQv1etyjcGojW0W4sZO5D_DotA",
+        "SeasonNumber": "Season 26"
+    },
+    {
+        "Version": "++Fortnite+Release-26.30-CL-28688692-Shipping-Windows",
+        "Manifest_ID": "AJ02zs2tnKO9TnyH2E2eh8i26kE57w",
+        "SeasonNumber": "Season 26"
+    },
+    {
+        "Version": "++Fortnite+Release-27.00-CL-29072304-Shipping-Windows",
+        "Manifest_ID": "9D35cLnDuvbycWfihUeiuR6MP7PcRA",
+        "SeasonNumber": "Season 27"
+    },
+    {
+        "Version": "++Fortnite+Release-27.10-CL-29552510-Shipping-Windows",
+        "Manifest_ID": "jCqdkjlhCqXO8734Zkmpi8Lp4vUHeA",
+        "SeasonNumber": "Season 27"
+    },
+    {
+        "Version": "++Fortnite+Release-27.11-CL-29739262-Shipping-Windows",
+        "Manifest_ID": "AtunKhtPq4NHVe1fwkynsUmQJyFEtw",
+        "SeasonNumber": "Season 27"
+    },
+    {
+        "Version": "++Fortnite+Release-28.00-CL-29915848-Shipping-Windows",
+        "Manifest_ID": "CuLv_l0LuQM0W19qRkWTfZDUk0GmpQ",
+        "SeasonNumber": "Season 28"
+    },
+    {
+        "Version": "++Fortnite+Release-28.01-CL-30106568-Shipping-Windows",
+        "Manifest_ID": "KojsOReYLS2yfFapo0Wbw8JxValkeg",
+        "SeasonNumber": "Season 28"
+    },
+    {
+        "Version": "++Fortnite+Release-28.01-CL-30313795-Shipping-Windows",
+        "Manifest_ID": "KX7lrNGin34am7bx90y3kk9Md8zqmQ",
+        "SeasonNumber": "Season 28"
+    },
+    {
+        "Version": "++Fortnite+Release-28.10-CL-30676362-Shipping-Windows",
+        "Manifest_ID": "dstRnNfDLg6v3O2v50aMEhXWCmLrIw",
+        "SeasonNumber": "Season 28"
+    },
+    {
+        "Version": "++Fortnite+Release-28.10-CL-30835064-Shipping-Windows",
+        "Manifest_ID": "BZTHP5KZJu3WFe0kn0-EPFR-0UpAWQ",
+        "SeasonNumber": "Season 28"
+    },
+    {
+        "Version": "++Fortnite+Release-28.20-CL-31165234-Shipping-Windows",
+        "Manifest_ID": "CkqsVGTIb7MM3AMM0U-cj6LduzruLw",
+        "SeasonNumber": "Season 28"
+    },
+    {
+        "Version": "++Fortnite+Release-28.20-CL-31286935-Shipping-Windows",
+        "Manifest_ID": "9eBVw8XMOirjbVeHl0me_LXIgQNUPg",
+        "SeasonNumber": "Season 28"
+    },
+    {
+        "Version": "++Fortnite+Release-28.30-CL-31511038-Shipping-Windows",
+        "Manifest_ID": "6rnGKJUE4ZR1wE8YbEipgborM43rVQ",
+        "SeasonNumber": "Season 28"
+    },
+    {
+        "Version": "++Fortnite+Release-29.00-CL-31978752-Shipping-Windows",
+        "Manifest_ID": "QccYpugPQyAKo9cNEEKmwddeRykmKg",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.00-CL-32116959-Shipping-Windows",
+        "Manifest_ID": "jg1ax3PInT0RDnMG70KPcqcxGVeIDw",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.01-CL-32291970-Shipping-Windows",
+        "Manifest_ID": "UmdrBvDv4qhFaiK6CEuBNVvv7W4ZGA",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.10-CL-32391220-Shipping-Windows",
+        "Manifest_ID": "0qBIx9ct34a0cmOgj0KK26Cjq--bFg",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.10-CL-32567225-Shipping-Windows",
+        "Manifest_ID": "jDihDvwDD4VfI5Ss7Uy-BNIY91lqSw",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.20-CL-32716692-Shipping-Windows",
+        "Manifest_ID": "M2bOANvpvdO3YHqTVE27hPcxCYVW0w",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.30-CL-32982357-Shipping-Windows",
+        "Manifest_ID": "mfxryGF3iGOnOCOusEivzCKvqFF-Cg",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.40-CL-33291686-Shipping-Windows",
+        "Manifest_ID": "cMQbzoEznwVOR1BTjUe8Dy6mHfud-w",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.40-CL-33502036-Shipping-Windows",
+        "Manifest_ID": "6Paq4Hh0JRRG-B84H0Sedout7g-_fg",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-29.40-CL-33629566-Shipping-Windows",
+        "Manifest_ID": "w0RPuFOxVVMSrBvizUa4g8PCYiRedw",
+        "SeasonNumber": "Season 29"
+    },
+    {
+        "Version": "++Fortnite+Release-30.00-CL-33760522-Shipping-Windows",
+        "Manifest_ID": "28HcEgy7v5S-xhFEBU65IQzhQcfymQ",
+        "SeasonNumber": "Season 30"
+    },
+    {
+        "Version": "++Fortnite+Release-30.00-CL-33962396-Shipping-Windows",
+        "Manifest_ID": "iwzw_8_aWi0Yz0JAuE6lyBUjghnQog",
+        "SeasonNumber": "Season 30"
+    },
+    {
+        "Version": "++Fortnite+Release-30.10-CL-34184790-Shipping-Windows",
+        "Manifest_ID": "skWmYgNRtHhSZjbC_k22jp_kxKowiA",
+        "SeasonNumber": "Season 30"
+    },
+    {
+        "Version": "++Fortnite+Release-30.10-CL-34261954-Shipping-Windows",
+        "Manifest_ID": "Sii8rUL5871OSkC49k6vI17J57XuUQ",
+        "SeasonNumber": "Season 30"
+    },
+    {
+        "Version": "++Fortnite+Release-30.10-CL-34399867-Shipping-Windows",
+        "Manifest_ID": "8mTO_w4sy5ubMXTizEKFD2W6Q5glQw",
+        "SeasonNumber": "Season 30"
+    },
+    {
+        "Version": "++Fortnite+Release-30.20-CL-34488544-Shipping-Windows",
+        "Manifest_ID": "RAUGZJi-86HkdkJwEkGN6Ip-sqB2hw",
+        "SeasonNumber": "Season 30"
+    },
+    {
+        "Version": "++Fortnite+Release-30.20-CL-34597766-Shipping-Windows",
+        "Manifest_ID": "NYAK4exKX_9ELcGZ80eGnZOqTzLOXQ",
+        "SeasonNumber": "Season 30"
+    }
+]
