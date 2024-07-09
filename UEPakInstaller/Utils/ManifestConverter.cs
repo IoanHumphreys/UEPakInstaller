@@ -2,7 +2,7 @@
 
 public class ManifestConverter
 {
-    public void GetManifestData(string rawManifest)
+    public void GetManifest(string rawManifest)
     {
         Console.WriteLine(rawManifest);
     }

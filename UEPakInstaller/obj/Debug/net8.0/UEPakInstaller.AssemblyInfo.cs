@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UEPakInstaller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e88dacce343e22e52a4f08634efc4a15a330205")]
 [assembly: System.Reflection.AssemblyProductAttribute("UEPakInstaller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UEPakInstaller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

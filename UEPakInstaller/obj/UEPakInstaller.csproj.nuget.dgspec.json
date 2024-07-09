@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\UEPakInstaller.csproj": {}
+    "c:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\UEPakInstaller.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\UEPakInstaller.csproj": {
+    "c:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\UEPakInstaller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\UEPakInstaller.csproj",
+        "projectUniqueName": "c:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\UEPakInstaller.csproj",
         "projectName": "UEPakInstaller",
-        "projectPath": "C:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\UEPakInstaller.csproj",
+        "projectPath": "c:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\UEPakInstaller.csproj",
         "packagesPath": "C:\\Users\\Ioan Humphreys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\obj\\",
+        "outputPath": "c:\\Users\\Ioan Humphreys\\Downloads\\UEPakInstaller\\UEPakInstaller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Shared\\NuGetPackages"

@@ -11,7 +11,7 @@ class UEPakInstaller
         try
         {
             // Set Directory
-            Console.WriteLine("UEPakInstaller Created by @Ioan_123 and @CreationBender\n");
+            Console.WriteLine("UEPakInstaller Created by Ioan_123 and CreationBender\n");
             Console.WriteLine("Enter builds output directory:");
             string directoryPath = (Console.ReadLine() ?? string.Empty).Trim();
 
@@ -19,14 +19,12 @@ class UEPakInstaller
             if (Directory.Exists(directoryPath))
             {
                 Console.Clear();
-                Console.WriteLine("UEPakInstaller Created by @Ioan_123 and @CreationBender\n");
+                Console.WriteLine("UEPakInstaller Created by Ioan_123 and CreationBender\n");
                 Console.WriteLine($"Builds Directory: {directoryPath}\n");
-                GetManifestData getManifestData = new GetManifestData();
-                
-                Console.WriteLine("Enter manifest ID:");
-                string manifestId = Console.ReadLine() ?? string.Empty;
-                
-                await getManifestData.OpenManifestAsync(manifestId);
+
+                // Read Manifest Data
+                ManifestSelector manifestSelector = new ManifestSelector();
+                manifestSelector.ReadManifest();
             }
             else
             {

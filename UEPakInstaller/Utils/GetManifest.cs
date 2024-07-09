@@ -1,10 +1,11 @@
 using System.Text;
 
-public class GetManifestData
+public class GetManifest
 {
     private readonly HttpClient _httpClient;
 
-    public GetManifestData()
+    // Get Manifest
+    public GetManifest()
     {
         _httpClient = new HttpClient();
     }
@@ -16,12 +17,13 @@ public class GetManifestData
         
         try
         {
+            // Return Raw Manifest Content 
             byte[] manifestBytes = await _httpClient.GetByteArrayAsync(rawManifestUrl);
             string rawManifest = Encoding.UTF8.GetString(manifestBytes);
 
             // Convert Manifest
             ManifestConverter manifestConverter = new ManifestConverter();
-            manifestConverter.GetManifestData(rawManifest);
+            manifestConverter.GetManifest(rawManifest);
         }
         catch (HttpRequestException e)
         {
